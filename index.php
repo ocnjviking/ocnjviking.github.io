@@ -70,7 +70,7 @@
         </div>
         <div class="col-md-6">
 
-          <img src="fish.jpg" style="width:100%; text-align:center; border-radius: 30px;"></img>
+          <img src="legend.jpg" style="width:100%; text-align:center; border-radius: 30px;"></img>
        </div>
       </div>
 
@@ -91,7 +91,7 @@
         
         <div class="col-md-6">
 
-          <img src="legend.jpg" style="width:100%; text-align:center; border-radius: 30px;"></img>
+          <img src="fish.jpg" style="width:100%; text-align:center; border-radius: 30px;"></img>
        </div>
        <div class="col-md-6">
           <div class="in-row">
