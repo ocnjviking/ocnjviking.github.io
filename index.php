@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,8 +17,7 @@
     <link href="custom.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=News+Cycle|Josefin+Sans|Port+Lligat+Sans|Oswald|Niconne' rel='stylesheet' type='text/css'>
 
-    <!-- Custom styles for this template -->
-    <link href="jumbotron.css" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -35,7 +35,7 @@
       <h1 style="margin-left:100px; color: #D6D5D5;">Viking Charter Boat </h1> <h1 style="position:absolute; text-align:center; font-family:Niconne; top: 110px; left: 315px;"> Ocean City New Jersey </h1>
     </div>
     <div class="lower-header">
-      <h2 style="margin-left:225px; color: #D6D5D5; position:absolute">Captain Norman Hafsrud </h2> <h4 style="text-align:right; color: #D6D5D5; padding-right: 100px; font-family:Niconne; font-size:30px; margin-top:3px;"> (609) 111-1111 </h4>
+      <h2 style="margin-left:225px; color: #D6D5D5; position:absolute">Captain Norman Hafsrud </h2> <h4 style="text-align:right; color: #D6D5D5; padding-right: 100px; font-family:Niconne; font-size:30px; margin-top:3px;"> (609)399-8835 </h4>
     </div>
 
     <div class="space">
@@ -121,7 +121,7 @@
 
       <footer>
         <p style="position:absolute;">Viking Charter Boat <br> Norman Hafsrud</p>
-        <p style="text-align: right;"> (609) 111-111 <br> thisIsAnEmail@gmail.com </p>
+        <p style="text-align: right;"> (609)399-8835 <br> &nbsp; </p>
       </footer>
     </div> <!-- /container -->
 
