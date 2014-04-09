@@ -12,15 +12,11 @@
 
     <title>Viking Charter Boat</title>
 
-    <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="custom.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=News+Cycle|Josefin+Sans|Port+Lligat+Sans|Oswald|Niconne' rel='stylesheet' type='text/css'>
 
     <link rel="shortcut icon" href="favicon.ico">
-
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -45,7 +41,7 @@
     <div class="container">
 
     <div class="advertise">
-      <h2 style="font-family:Niconne; text-align:center; font-size: 40px; margin-top: 5px;"> "A family friendly boat with years of experience" --Fisher Magazine</h2>
+      <h2 style="font-family:Niconne; text-align:center; font-size: 40px; margin-top: 5px;"> "A family friendly boat with years of experience" --Fisherman Magazine</h2>
     </div>
 
     <div class="row">
@@ -63,7 +59,7 @@
           <ul style="font-family:'Josefin Sans'; font-size:20px">
             <li>Pay per boat with up to three passengers</li>
             <li> Bay Trip (4 Hours) $140</li>
-            <li> Ocean Trip (4 Hours) $240</li>
+            <li> Ocean Trip (5 Hours) $240</li>
             <li> Expert fishing spots </li>
             </ul>
           </div>
@@ -97,9 +93,9 @@
           <div class="in-row">
           <h2 style="font-family:Niconne; text-align:center; font-size: 40px; margin-top: 5px;"> Awards and Recognition</h2>
           <p style="font-family:Niconne; font-size:30px">
-            -- Fisher Magazine <br>
-            -- Ocean City Fishing Company <br>
-            -- Ocean City Gazzette
+            -- Fisherman Magazine <br>
+            -- Pottstown Mercury <br>
+            -- Ocean City Sun
           </p>
           </div>
         </div>
